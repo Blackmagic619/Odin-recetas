@@ -1,1 +1,1 @@
-# Odin-recetas
+El siguiente proyecto se basa en la creación de una pagina de recetas solo con html, una vez compleatado se habra practicado las etqiuetas y attributos más usados de html y el uso basico de git
